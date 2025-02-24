@@ -3,7 +3,8 @@
 ## 🚀 Programmer | Cloud Architect | DevOps Enthusiast
 
 ### About Me
-- ☁️ Passionate about Cloud-Native Architectures and Open-Source Contributions.
+- 🥊 Passionate about Cloud-Native Architectures and Open-Source Contributions.
+- ☁️ Turning cloud complexity into scalable solutions with AWS | GCP | Kubernetes
 - 💻 Currently Learning: **Python & Go**
 - 🔧 Expertise in AWS, GCP, Kubernetes, Terraform, Docker, and CI/CD.
 - 🎯 Building scalable and resilient cloud architectures.
