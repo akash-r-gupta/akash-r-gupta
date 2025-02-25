@@ -19,8 +19,8 @@
 
 ## 📌 Featured Projects
 ### 🚀 DevOps & Cloud
-- [`terraform-aws-modules`](https://github.com/your-username/terraform-aws-modules) - Custom Terraform modules for AWS.
-- [`k8s-deployments`](https://github.com/your-username/k8s-deployments) - Helm charts and Kubernetes manifests.
+- [`terraform-aws-modules`](https://github.com/akash-r-gupta/terraform-aws-modules) - Custom Terraform modules for AWS.
+- [`k8s-deployments`](https://github.com/akash-r-gupta/k8s-deployments) - Helm charts and Kubernetes manifests.
 
 ### 💡 Learning Projects
 - [`python-cloud-automation`](https://github.com/akash-r-gupta/python-cloud-automation) - Python scripts for cloud automation.
@@ -30,8 +30,8 @@
 - Contributing to **Kubernetes, Terraform, and DevOps tools**.
 
 ## 📚 Latest Blog Posts
-- [How to Deploy Microservices on Kubernetes](your-blog-url)
-- [Optimizing CI/CD Pipelines for Multi-Cloud Environments](your-blog-url)
+- [ComingSoon](your-blog-url)
+- [ComingSoon](your-blog-url)
 
 ---
 
