@@ -9,7 +9,7 @@
 - 🔧 Expertise in AWS, GCP, Kubernetes, Terraform, Docker, and CI/CD.
 - 🎯 Building scalable and resilient cloud architectures.
 
-### 📫 Connect with Me
+### 📫 Connect with Me (Quick Way to find me | Search AKASH-R-GUPTA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/akash-r-gupta)
 
 ---
@@ -19,7 +19,10 @@
 
 ## 📌 Featured Projects
 ### 🚀 DevOps & Cloud
-- [`terraform-aws-modules`](https://github.com/akash-r-gupta/terraform-aws-modules) - Custom Terraform modules for AWS.
+####  AWS Services & OpenTofu
+- [`opentofu-aws-eks`](https://github.com/akash-r-gupta/opentofu-aws-eks) - Custom Terraform modules for provisioning fully-baked EKS with all add-ons needed for baseline.
+
+####  Kubernetes & Helm Charts
 - [`k8s-deployments`](https://github.com/akash-r-gupta/k8s-deployments) - Helm charts and Kubernetes manifests.
 
 ### 💡 Learning Projects
