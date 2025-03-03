@@ -9,7 +9,7 @@
 - 🔧 Expertise in AWS, GCP, Kubernetes, Terraform, Docker, and CI/CD.
 - 🎯 Building scalable and resilient cloud architectures.
 
-### 📫 Connect with Me (Quick Way to find me | Search AKASH-R-GUPTA)
+### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/akash-r-gupta)
 
 ---
