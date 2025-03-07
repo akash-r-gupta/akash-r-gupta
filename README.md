@@ -18,12 +18,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-r-gupta&show_icons=true&theme=onedark)
 
 ## 📌 Featured Projects
-### 🚀 DevOps & Cloud
-####  AWS Services & OpenTofu
-- [`opentofu-aws-eks`](https://github.com/akash-r-gupta/opentofu-aws-eks) - Custom Terraform modules for provisioning fully-baked EKS with all add-ons needed for baseline.
+### 🚀 Observability & Resilience Engineering
+- [`Observability Pillars | Metrics, Logs, Traces`](https://github.com/akash-r-gupta/observability-pillars)
+- [`Distributed Tracing | OpenTelemetry, Jaeger, Zipkin`](https://github.com/akash-r-gupta/distributed-tracing)
+- [`Logging & Log Aggregation | ELK Stack, Loki, Fluentd`](https://github.com/akash-r-gupta/logging)
+- [`Monitoring & Alerting | Prometheus, Grafana, Thanos`](https://github.com/akash-r-gupta/monitoring-alerting)
+- [`Resillience Patterns | Circuit Breakers, Bulkheads, Retries, Chaos Engineering`](https://github.com/akash-r-gupta/resillience-patterns) 
+- [`High Availability & Disaster Recovery | RTO, RPO, Multi-Region Architecture`](https://github.com/akash-r-gupta/ha-disaster-recovery)
+- [`SLOs, SLIs, & Error Budgets`](https://github.com/akash-r-gupta/google-sre-model)
 
-####  Kubernetes & Helm Charts
-- [`k8s-deployments`](https://github.com/akash-r-gupta/k8s-deployments) - Helm charts and Kubernetes manifests.
 
 ### 💡 Learning Projects
 - [`python-cloud-automation`](https://github.com/akash-r-gupta/python-cloud-automation) - Python scripts for cloud automation.
